@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "GOZALO (Slowed)",
+  "base_artist": "Ariis",
+  "createdAt": "2026-02-25T12:18:09.470214Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "GOZALO - Slowed",
+      "artist": "Ariis",
+      "has_synced": true,
+      "path": "select/01_GOZALO_-_Slowed_Ariis.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "GOZALO (Slowed)",
+      "artist": "Ariis",
+      "has_synced": true,
+      "path": "select/02_GOZALO_(Slowed)_Ariis.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "GOZALO (Slowed)",
+      "artist": "Aris Parrein",
+      "has_synced": true,
+      "path": "select/03_GOZALO_(Slowed)_Aris_Parrein.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Gózalo",
+      "artist": "R3HAB",
+      "has_synced": false,
+      "path": "select/04_Gózalo_R3HAB.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Gózalo (with Deorro)",
+      "artist": "R3HAB",
+      "has_synced": false,
+      "path": "select/05_Gózalo_(with_Deorro)_R3HAB.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Gózalo (with Deorro)",
+      "artist": "R3HAB, Deorro",
+      "has_synced": false,
+      "path": "select/06_Gózalo_(with_Deorro)_R3HAB,_Deorro.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Gózalo, Muévelo, Báilalo",
+      "artist": "Magoman",
+      "has_synced": false,
+      "path": "select/07_Gózalo,_Muévelo,_Báilalo_Magoman.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Gozalo - Salsa",
+      "artist": "El Rubio Loco",
+      "has_synced": false,
+      "path": "select/08_Gozalo_-_Salsa_El_Rubio_Loco.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Gózalo",
+      "artist": "La-33",
+      "has_synced": true,
+      "path": "select/09_Gózalo_La-33.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Muévelo y Gózalo",
+      "artist": "Los Morales",
+      "has_synced": true,
+      "path": "select/10_Muévelo_y_Gózalo_Los_Morales.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "BAILALO Y GOZALO",
+      "artist": "DJ DAVE",
+      "has_synced": true,
+      "path": "select/11_BAILALO_Y_GOZALO_DJ_DAVE.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Gózalo (with Deorro)",
+      "artist": "R3HAB\u0000﻿",
+      "has_synced": true,
+      "path": "select/12_Gózalo_(with_Deorro)_R3HAB\u0000﻿.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "GOZALO - Super Slowed",
+      "artist": "Ariis",
+      "has_synced": true,
+      "path": "select/13_GOZALO_-_Super_Slowed_Ariis.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "GOZALO",
+      "artist": "Ariis",
+      "has_synced": true,
+      "path": "select/14_GOZALO_Ariis.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "GOZALO (Paused)",
+      "artist": "Ariis",
+      "has_synced": true,
+      "path": "select/15_GOZALO_(Paused)_Ariis.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "GOZALO - Sped Up",
+      "artist": "Ariis",
+      "has_synced": true,
+      "path": "select/16_GOZALO_-_Sped_Up_Ariis.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "GOZALO",
+      "artist": "Song, Ariis",
+      "has_synced": true,
+      "path": "select/17_GOZALO_Song,_Ariis.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "GOZALO (Ultra Slowed)",
+      "artist": "Ariis",
+      "has_synced": true,
+      "path": "select/18_GOZALO_(Ultra_Slowed)_Ariis.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "GOZALO (Super Slowed)",
+      "artist": "Song, Ariis",
+      "has_synced": true,
+      "path": "select/19_GOZALO_(Super_Slowed)_Song,_Ariis.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GOZALO",
+      "artist": "Ariis",
+      "has_synced": false,
+      "path": "select/pl_01_GOZALO_Ariis.txt"
+    }
+  ]
+}
